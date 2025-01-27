@@ -8,7 +8,7 @@ I'm currently working as a Software Engineer at ONE BCG - ONE Business Consultin
 
 ### Some Highlights
 📌 Software Engineer at ONE BCG  
-📌 400 problems solved on Leetcode with a 400+ day streak 
+📌 400 problems solved on Leetcode with a 400+ day streak <br />
 🥇 Graduated with a B.Tech in Computer Science from Chandigarh University with 8.10/10 CGPA  
 📌 Published  Research Papers in leading conferences and journals
 
