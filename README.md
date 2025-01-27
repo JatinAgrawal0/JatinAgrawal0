@@ -1,23 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jatin Agrawal
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is <a href="http://www.jatinagrawal.co.in" target="_blank">Jatin Agrawal</a>
 ==========================================================================================================================================
 
 B.E. CU'24,  Full stack developer, Data science, Machine learning, Deep Learning, NLP
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-I'm currently working as a Software Engineer at ONE BCG.
+I'm currently working as a Software Engineer at ONE BCG - ONE Business Consulting Group.
 
 ### Some Highlights
 📌 Software Engineer at ONE BCG  
-📌 200+ Problems Solved on Leetcode  
+📌 400 problems solved on Leetcode with a 400+ day streak 
 🥇 Graduated with a B.Tech in Computer Science from Chandigarh University with 8.10/10 CGPA  
-📌 Published  Research Papers in leading conferences and journals such as IEEE. 
+📌 Published  Research Papers in leading conferences and journals
 
 ### 💪 My Strengths
-1️⃣ **Programming Skills**: Python, C/C++, JavaScript, TypeScript, SQL, Java, Git, LaTeX  
+1️⃣ **Programming Skills**: Python, C/C++, JavaScript, SQL, Java, Git, LaTeX  
 2️⃣ **Cloud Services**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)  
-3️⃣ **Web Development**: React, Node.js, Next.js, Redux.js, Express, Flask, FastAPI, Django  
-4️⃣ **Tools & Platforms**: Docker, Git/GitHub, AWS, Azure, Jira  
-5️⃣ **Databases**: MongoDB, MySQL, Firebase, PostgreSQL  
+3️⃣ **Web Development**:ASP.NET, React, Node.js, Next.js, Redux.js, Express
+4️⃣ **Tools & Platforms**: Docker, Git/GitHub, AWS, Azure, Jira, BitBucket, SourceTree
+5️⃣ **Databases**: MongoDB, MySQL, PostgreSQL  
 6️⃣ **Machine Learning**: TensorFlow, PyTorch, Computer Vision, Hugging Face, Machine Learning, Deep Learning, NLP  
 7️⃣ **Communication & Leadership**: Led teams, organized events, and managed projects with cross-functional collaboration.
 
@@ -59,18 +59,14 @@ src="https://img.shields.io/github/followers/JatinAgrawal0?logo=github&style=for
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/JatinAgrawal0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jatinagrawal56" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@priyanshumalaviya9210" target="_blank" rel="noreferrer"></p>
+<p align="left"> <a href="https://t.me/jatinagrawal0" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jatinagrawal56" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@priyanshumalaviya9210" target="_blank" rel="noreferrer"></p>
 
 ### Badges
 
