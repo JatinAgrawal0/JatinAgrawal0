@@ -7,7 +7,7 @@ B.E. CU'24, Full stack developer, Data Science, Machine Learning, Deep Learning,
 I'm currently working as a Software Engineer at ONE BCG - ONE Business Consulting Group.
 
 ### Some Highlights
-📌 Software Engineer at ONE BCG 
+📌 Software Engineer at ONE BCG  
 📌 400 problems solved on Leetcode with a 400+ day streak  
 🥇 Graduated with a B.E. in Computer Science from Chandigarh University with 8.10/10 CGPA  
 📌 Published research papers in leading conferences and journals
@@ -113,12 +113,12 @@ I'm currently working as a Software Engineer at ONE BCG - ONE Business Consultin
   </a>
   <a href="https://www.linkedin.com/in/jatinagrawal56" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a
+  </a>
 </p>
 
 ### Badges
 
-<b>My GitHub Stats</b>
+**My GitHub Stats**
 
 <a href="http://www.github.com/JatinAgrawal0">
   <img src="https://github-readme-stats.vercel.app/api?username=JatinAgrawal0&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="JatinAgrawal0's GitHub stats" />
