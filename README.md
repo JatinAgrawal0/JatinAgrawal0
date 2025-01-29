@@ -40,8 +40,17 @@ I'm currently working as a Software Engineer at ONE BCG - ONE Business Consultin
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="http://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" width="36" height="36" alt="C#" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  </a>
+  <a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer">
+    <img src="https://wac-cdn-bfldr.atlassian.com/K3MHR9G8/at/73hphf4xp5shfr56pfvz4v/logo-light_Bitbucket_mark-tile_inverse_RGB.svg" width="36" height="36" alt="BitBucket" />
+  </a>
+  <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/022b9c22d11a0a5120ee29b47532c62356dc580c21d2da4b99eb25d233c01169/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f6775692d746f6f6c2d7475746f7269616c732f736f75726365747265652d6d61636f732d7475746f7269616c2f736f75726365747265652d6c6f676f2e706e67" width="36" height="36" alt="SourceTree" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -61,7 +70,10 @@ I'm currently working as a Software Engineer at ONE BCG - ONE Business Consultin
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer">
+    <img src="https://github.com/campusMVP/dotnetLogoPack/blob/main/.samples/dotNET-white.png" width="36" height="36" alt=".NET CORE" />
+  </a>
+    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
@@ -97,6 +109,9 @@ I'm currently working as a Software Engineer at ONE BCG - ONE Business Consultin
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="36" height="36" alt="PgAdmin" />
+  </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   </a>
@@ -108,15 +123,15 @@ I'm currently working as a Software Engineer at ONE BCG - ONE Business Consultin
 ### Socials
 
 <p align="left">
-  <a href="https://t.me/jatinagrawal0" target="_blank">
-    <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="32" height="32" />
+  <a href="https://www.jatinagrawal.co.in" target="_blank" rel="noreferrer">
+    <img src="https://github.com/JatinAgrawal0/BulkyApp/blob/main/BulkyApp/wwwroot/favicon(1).png" width="32" height="32" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/jatinagrawal56" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>&nbsp;
-  <a href="https://www.jatinagrawal.co.in" target="_blank" rel="noreferrer">
-    <img src="https://github.com/JatinAgrawal0/BulkyApp/blob/main/BulkyApp/wwwroot/favicon(1).png" width="32" height="32" />
-  </a>
+  <a href="https://t.me/jatinagrawal0" target="_blank">
+    <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="32" height="32" />
+  </a>&nbsp;
 </p>
 
 ### Badges
