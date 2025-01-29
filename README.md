@@ -1,7 +1,7 @@
 Hi! ![Gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is <a href="http://www.jatinagrawal.co.in" target="_blank">Jatin Agrawal</a>
 ==========================================================================================================================================
 
-B.E. CU'24, Full stack developer, Data Science, Machine Learning, Deep Learning, NLP
+B.E. CU'24, Full Stack Developer, Data Science, Machine Learning, Deep Learning, NLP
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 I'm currently working as a Software Engineer at ONE BCG - ONE Business Consulting Group.
@@ -108,11 +108,14 @@ I'm currently working as a Software Engineer at ONE BCG - ONE Business Consultin
 ### Socials
 
 <p align="left">
-  <a href="https://t.me/jatinagrawal0" target="_blank" rel="noreferrer">
+  <a href="https://t.me/jatinagrawal0" target="_blank">
     <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="32" height="32" />
-  </a>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/jatinagrawal56" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>&nbsp;
+  <a href="https://www.jatinagrawal.co.in" target="_blank" rel="noreferrer">
+    <img src="https://github.com/JatinAgrawal0/BulkyApp/blob/main/BulkyApp/wwwroot/favicon(1).png" width="32" height="32" />
   </a>
 </p>
 
